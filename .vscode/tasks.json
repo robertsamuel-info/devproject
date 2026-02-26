@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run StreamPay Dev Server",
+			"type": "shell",
+			"command": "cd '${workspaceFolder}\\StreamPay-main\\streampay' ; npm run dev",
+			"isBackground": true,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run StreamPay Dev Server",
+			"type": "shell",
+			"command": "cd '${workspaceFolder}\\StreamPay-main\\streampay' ; npm run dev",
+			"isBackground": true,
+			"problemMatcher": []
+		},
+		{
+			"label": "StreamPay Dev 3000",
+			"type": "shell",
+			"command": "cd '${workspaceFolder}\\StreamPay-main\\streampay' ; npm run dev",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
